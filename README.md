@@ -13,7 +13,7 @@ Il corso di formazione su Git ha l'obiettivo di fornire le basi per l'utilizzo d
 - [Stato dei file](./lezioni/lezione5.md)
 - [Gestione dello staging](./lezioni/lezione6.md)
 - [Operazioni sui file](./lezioni/lezione7.md)
-- Annullamento e cronologia delle modifica [WIP]
+- Annullamento e cronologia delle modifiche [WIP]
 - Tag e alias [WIP]
 - I rami (branch) [WIP]
 - Rami e merging [WIP]
