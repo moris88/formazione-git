@@ -16,6 +16,12 @@ git config user.name "Nome Cognome"
 git config user.email "
 ```
 
+### Configurazione della visualizzazione del grafo dei rami
+
+```bash
+git config --global alias.adog "log --all --decorate --oneline --graph"
+```
+
 ### Visualizzazione configurazione
 
 ```bash
@@ -162,7 +168,25 @@ git checkout <branch>
 git checkout -b <branch>
 ```
 
+### Revert di un commit
+
+```bash
+git revert <commit>
+```
+
+### List commit
+
+```bash
+git log
+```
+
 ## Rami e merging
+
+### Visualizzazione del grafo dei rami
+
+```bash
+git adog
+```
 
 ### Fusione di un ramo
 
