@@ -1,4 +1,4 @@
-# Comandi
+# Lista Comandi
 
 ## Configurazione
 
