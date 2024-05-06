@@ -20,4 +20,8 @@ Il corso di formazione su Git ha l'obiettivo di fornire le basi per l'utilizzo d
 - Fusione di rami (branch) [WIP]
 - Rebasing [WIP]
 
+## Comandi
+
+[qui](./comandi.md) trovi la lista completa dei comandi di Git.
+
 ### By [Maurizio Tolomeo](https://github.com/moris88)
