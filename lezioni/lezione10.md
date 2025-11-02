@@ -1,4 +1,4 @@
-# lEZIONE 10 - Tag e Alias
+# Lezione 10 - Tag e Alias
 
 Git presenta alcune funzionalità che permettono di semplificare le operazioni per la ricerca all'interno della cronologia dei progetti registrati nei repository, tagging, e la formulazione rapida delle istruzioni da inviare al DVCS, alias. Il loro utilizzo consente di incrementare la produttività delle sessioni di lavoro, anche nelle fasi di condivisione per lo sviluppo collaborativo.
 
